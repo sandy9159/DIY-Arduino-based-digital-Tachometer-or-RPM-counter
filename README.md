@@ -43,6 +43,9 @@ Today we’re going to make an easy-to-make and cost-effective digital tachomete
 
 ![image](https://user-images.githubusercontent.com/19898602/134334835-13006e24-04c2-4844-9e5e-c0e1c7dfc71b.png)
 
+![image](https://user-images.githubusercontent.com/19898602/134335535-15ce1bfb-7519-42da-b119-2921fa2571de.png)
+
+
 
 
 Now after managing these components do this following connection for designing Digital Tachometer using IR Sensor with Arduino for measuring RPM
@@ -112,6 +115,11 @@ When IR sensor module is powered on IR transmitter emit IR rays if any white obj
 Range of IR sensor can adjust from 1K ohm pot available on board.
 
 Now let we see how to build a digital Tachometer or RPM counter using IR sensor.
+
+
+![image](https://user-images.githubusercontent.com/19898602/134335587-f1ae1080-6c3c-4bc1-bd1e-4af1617acb37.png)
+
+
 
 
 
