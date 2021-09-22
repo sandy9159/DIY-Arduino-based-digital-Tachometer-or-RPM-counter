@@ -95,7 +95,7 @@ If you get yourself registered today at [JLCPCB](https://jlcpcb.com/IAT ) you ge
 
 
 ![MVI_0001 00_06_45_21 Still003](https://user-images.githubusercontent.com/19898602/133377296-ba24f45e-dcf4-4f97-9aa5-77aaed90175a.jpg)
-![image](https://user-images.githubusercontent.com/19898602/134336269-bcd321fa-0db7-4930-b76e-530a63b386eb.png)
+![image](https://user-images.githubusercontent.com/19898602/134336738-23c25244-d38b-4112-a07d-83433840d129.png)
 
 
 # IR Sensor Module
