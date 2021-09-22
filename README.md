@@ -89,6 +89,14 @@ Tact Switch one end ————- Arduino PinD12
 Tact Switch another end ————-GND
 
 
+Guys If you seriously need quality PCB quickly in your hand then you must have to try [JLCPCB](https://jlcpcb.com/IAT ) PCB manufacturing service.
+They have Special offer of $2 for 1-4 Layer PCBs, free SMT assembly monthly. they now also have PURPLE colour PCB option also without any extra cost.
+If you get yourself registered today at [JLCPCB](https://jlcpcb.com/IAT ) you get 18$ welcome coupon from [JLCPCB](https://jlcpcb.com/IAT ).
+
+
+![MVI_0001 00_06_45_21 Still003](https://user-images.githubusercontent.com/19898602/133377296-ba24f45e-dcf4-4f97-9aa5-77aaed90175a.jpg)
+![image](https://user-images.githubusercontent.com/19898602/134336269-bcd321fa-0db7-4930-b76e-530a63b386eb.png)
+
 
 # IR Sensor Module
 
@@ -120,6 +128,7 @@ Now let we see how to build a digital Tachometer or RPM counter using IR sensor.
 ![image](https://user-images.githubusercontent.com/19898602/134335587-f1ae1080-6c3c-4bc1-bd1e-4af1617acb37.png)
 
 
+![How to make Arduninio based digital tachometer](https://user-images.githubusercontent.com/19898602/134335939-4f4c4d33-b42e-432c-b805-bff8a36053b2.gif)
 
 
 
